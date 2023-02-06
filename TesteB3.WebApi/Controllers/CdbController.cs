@@ -9,9 +9,29 @@ namespace TesteB3.WebApi.Controllers
     {
 
         [HttpPost]
-        public CdbModel Post()
+        public IActionResult Post([FromBody] CdbDto cdbDto)
         {
-            return new CdbModel(10000, 0.9, 108, 2 );
+            try
+            {
+                var result = new CdbModel(cdbDto.ValorInicial, 0.9, 108, cdbDto.Meses);
+                return Ok(new Result()
+                { 
+                    Success = true,
+                    Message = "",
+                    Data = result
+                });
+            }
+            catch (Exception ex)
+            {
+
+                return BadRequest(new Result() 
+                { 
+                    Success = false,
+                    Message = ex.Message,
+                    Data = null 
+                });
+            }
         }
+            
     }
 }

@@ -17,7 +17,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TesteB3.Models", "TesteB3.Models\TesteB3.Models.csproj", "{3CA7DF5F-3E0A-4FEC-9861-B000E294B4AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteB3.WebApi", "TesteB3.WebApi\TesteB3.WebApi.csproj", "{237B0BD9-36A9-480E-850E-9A8D0574BC65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TesteB3.WebApi", "TesteB3.WebApi\TesteB3.WebApi.csproj", "{237B0BD9-36A9-480E-850E-9A8D0574BC65}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

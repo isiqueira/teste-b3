@@ -1,0 +1,15 @@
+<form [formGroup]="cdbForm">
+    <label for="name">Valor Inicial: </label>
+    <input id="ValorInicial" type="number" formControlName="ValorInicial">
+    <label for="name">Quantidade de meses: </label>
+    <input id="ValorInicial" type="number" formControlName="Meses">
+    <button type="button" id="btnCalcular" (click)="send()" [disabled]="cdbForm.invalid">Calcular</button>
+</form>
+
+<div *ngIf="result">
+    <p>Valor Inicial: {{result.valorInicial | currency: 'BRL'}}</p> 
+    <p>Valor Bruto: {{result.valorFinal | currency: 'BRL'}}</p>
+    <p>Valor Liquido: {{result.valorLiquido | currency: 'BRL'}}</p>
+    <p>Taxa CDI: {{result.cdi | percent:'1.2-2'}} </p>
+    <p>Taxa Banco: {{result.taxaBanco | percent}} </p>
+</div>

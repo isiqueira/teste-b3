@@ -79,6 +79,6 @@
 
 
         public double Calculate(double valor) =>
-            valor * (1 + (Cdi * TaxaBanco));
+            valor * (1 + (cdi * taxaBanco));
     }
 }
