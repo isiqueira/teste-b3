@@ -1,0 +1,12 @@
+C:\Users\isiqu\OneDrive\Documentos\dev\teste-b3\TesteB3\TesteB3.Models\bin\Debug\net6.0\TesteB3.Models.deps.json
+C:\Users\isiqu\OneDrive\Documentos\dev\teste-b3\TesteB3\TesteB3.Models\bin\Debug\net6.0\TesteB3.Models.dll
+C:\Users\isiqu\OneDrive\Documentos\dev\teste-b3\TesteB3\TesteB3.Models\bin\Debug\net6.0\TesteB3.Models.pdb
+C:\Users\isiqu\OneDrive\Documentos\dev\teste-b3\TesteB3\TesteB3.Models\obj\Debug\net6.0\TesteB3.Models.csproj.AssemblyReference.cache
+C:\Users\isiqu\OneDrive\Documentos\dev\teste-b3\TesteB3\TesteB3.Models\obj\Debug\net6.0\TesteB3.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isiqu\OneDrive\Documentos\dev\teste-b3\TesteB3\TesteB3.Models\obj\Debug\net6.0\TesteB3.Models.AssemblyInfoInputs.cache
+C:\Users\isiqu\OneDrive\Documentos\dev\teste-b3\TesteB3\TesteB3.Models\obj\Debug\net6.0\TesteB3.Models.AssemblyInfo.cs
+C:\Users\isiqu\OneDrive\Documentos\dev\teste-b3\TesteB3\TesteB3.Models\obj\Debug\net6.0\TesteB3.Models.csproj.CoreCompileInputs.cache
+C:\Users\isiqu\OneDrive\Documentos\dev\teste-b3\TesteB3\TesteB3.Models\obj\Debug\net6.0\TesteB3.Models.dll
+C:\Users\isiqu\OneDrive\Documentos\dev\teste-b3\TesteB3\TesteB3.Models\obj\Debug\net6.0\refint\TesteB3.Models.dll
+C:\Users\isiqu\OneDrive\Documentos\dev\teste-b3\TesteB3\TesteB3.Models\obj\Debug\net6.0\TesteB3.Models.pdb
+C:\Users\isiqu\OneDrive\Documentos\dev\teste-b3\TesteB3\TesteB3.Models\obj\Debug\net6.0\ref\TesteB3.Models.dll
